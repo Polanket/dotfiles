@@ -46,6 +46,10 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+
 [user]
 	email = juanmpt@outlook.com
 	name = Juan Polanco
+
+[pull]
+  rebase = false
